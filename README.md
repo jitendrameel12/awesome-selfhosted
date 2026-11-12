@@ -18,15 +18,15 @@ See [Contributing](#contributing).
   - [Analytics](#analytics)
   - [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)
   - [Automation](#automation)
-  - [Backup](#backup)
+ 
   - [Blogging Platforms](#blogging-platforms)
   - [Booking and Scheduling](#booking-and-scheduling)
   - [Bookmarks and Link Sharing](#bookmarks-and-link-sharing)
   - [Calendar & Contacts](#calendar--contacts)
-  - [Communication - Custom Communication Systems](#communication---custom-communication-systems)
-  - [Communication - Email - Complete Solutions](#communication---email---complete-solutions)
-  - [Communication - Email - Mail Delivery Agents](#communication---email---mail-delivery-agents)
-  - [Communication - Email - Mail Transfer Agents](#communication---email---mail-transfer-agents)
+  - [Communication  Communication Systems](#communication---custom-communication-systems)
+  - [Communication- Complete Solutions](#communication---complete-solutions)
+  - [Communication - Mail Delivery Agents]
+  - [Communication - Email - Mail Transfer](#communication---email---mai
   - [Communication - Email - Mailing Lists and Newsletters](#communication---email---mailing-lists-and-newsletters)
   - [Communication - Email - Webmail Clients](#communication---email---webmail-clients)
   - [Communication - IRC](#communication---irc)
@@ -45,8 +45,8 @@ See [Contributing](#contributing).
   - [Document Management - E-books](#document-management---e-books)
   - [Document Management - Institutional Repository and Digital Library Software](#document-management---institutional-repository-and-digital-library-software)
   - [Document Management - Integrated Library Systems (ILS)](#document-management---integrated-library-systems-ils)
-  - [E-commerce](#e-commerce)
-  - [Federated Identity & Authentication](#federated-identity--authentication)
+ 
+   ](#federated-identity--authentication)
   - [Feed Readers](#feed-readers)
   - [File Transfer & Synchronization](#file-transfer--synchronization)
   - [File Transfer - Distributed Filesystems](#file-transfer---distributed-filesystems)
@@ -58,7 +58,7 @@ See [Contributing](#contributing).
   - [Games - Administrative Utilities & Control Panels](#games---administrative-utilities--control-panels)
   - [Genealogy](#genealogy)
   - [Generative Artificial Intelligence (GenAI)](#generative-artificial-intelligence-genai)
-  - [Groupware](#groupware)
+
   - [Health and Fitness](#health-and-fitness)
   - [Human Resources Management (HRM)](#human-resources-management-hrm)
   - [Identity Management](#identity-management)
@@ -85,8 +85,7 @@ See [Contributing](#contributing).
   - [Photo Galleries](#photo-galleries)
   - [Polls and Events](#polls-and-events)
   - [Proxy](#proxy)
-  - [Recipe Management](#recipe-management)
-  - [Remote Access](#remote-access)
+  - [Recipe Management](#recipe-managemen
   - [Resource Planning](#resource-planning)
   - [Search Engines](#search-engines)
   - [Self-hosting Solutions](#self-hosting-solutions)
@@ -140,9 +139,9 @@ _Related: [Database Management](#database-management), [Personal Dashboards](#pe
 - [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code](https://github.com/allinurl/goaccess)) `GPL-2.0` `C`
 - [GoatCounter](https://www.goatcounter.com) - Easy web statistics without tracking of personal data. ([Source Code](https://github.com/arp242/goatcounter)) `EUPL-1.2` `Go`
 - [HitKeep](https://hitkeep.com/) - Privacy-first web analytics with goals, funnels, ecommerce tracking, and team management in a single binary with embedded DuckDB (alternative to Google Analytics, Plausible, Umami). ([Source Code](https://github.com/HitKeep/hitkeep)) `MIT` `Go/Docker`
-- [Litlyx](https://litlyx.com) - All-in-one Analytics Solution. Setup in 30 seconds. Display all your data on an AI-powered dashboard. Fully self-hostable and GDPR compliant. ([Source Code](https://github.com/Litlyx/litlyx)) `Apache-2.0` `Docker`
+- [Litlyx](https://litlyx.com) - All-in-one Analytics Solution Display all youdashboard. Fully self-hostable and GDPR compliant. ([Source Code](https://github.com/Litlyx/litlyx)) `Apache-2.0` `Docker`
 - [Liwan](https://liwan.dev/) - Privacy-first web analytics. ([Demo](https://demo.liwan.dev/p/liwan.dev), [Source Code](https://github.com/explodingcamera/liwan)) `Apache-2.0` `Rust/Docker`
-- [Matomo](https://matomo.org/) - Web analytics that protects your data and your customers' privacy (alternative to Google Analytics). ([Source Code](https://github.com/matomo-org/matomo)) `GPL-3.0` `PHP`
+- [Matomo](https://matomo.org/) - Web analytics that protects your data and your customers' privacy (alternative  Analytics). ([Source Code](https://github.com/matomo-org/matomo)) `GPL-3.0` `PHP`
 - [Metabase](https://metabase.com/) - Easy way for everyone in your company to ask questions and learn from data. ([Source Code](https://github.com/metabase/metabase)) `AGPL-3.0` `Java/Docker`
 - [Middleware](https://middlewarehq.com/) - Tool designed to help engineering leaders measure and analyze the effectiveness of their teams using the DORA metrics. ([Source Code](https://github.com/middlewarehq/middleware)) `Apache-2.0` `Docker/Python/Nodejs`
 - [Netron](https://netron.app/) - Visualizer for neural network and machine learning models. ([Source Code](https://github.com/lutzroeder/netron)) `MIT` `Python/Nodejs`
