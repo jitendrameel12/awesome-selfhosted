@@ -8,7 +8,7 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [
 
 **[HTML version](https://awesome-selfhosted.net/) (recommended)**, [Markdown version](https://github.com/awesome-selfhosted/awesome-selfhosted) (legacy).
 
-See [Contributing](#contributing).
+
 
 --------------------
 
